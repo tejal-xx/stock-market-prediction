@@ -1,0 +1,11 @@
+kaleido==0.2.1
+matplotlib==3.5.3
+numpy==1.23.2
+pandas==1.4.4
+pandas-datareader==0.10.0
+plotly==5.11.0
+scipy==1.9.1
+seaborn==0.11.2
+sklearn==0.0
+statsmodels==0.13.5
+torch==1.12.1
